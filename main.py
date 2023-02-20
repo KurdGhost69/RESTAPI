@@ -30,7 +30,7 @@ def predict():
         "text": sentence,
         "source_lang": "sv",
         "target_lang": "en",
-        "auth_key": "aa4b9c49-2510-37c5-3a95-51e61b8ac513:fx"
+        "auth_key": "auth key"
     }
 
     # Send the translation request to the DeepL API
